@@ -1,2 +1,3 @@
-- aprendendo a criar repositórios no github
+- aprendendo a criar repositórios no GitHub
 - aprendendo criar tokens
+- aprendendo a enviar arquivos para o GitHub
